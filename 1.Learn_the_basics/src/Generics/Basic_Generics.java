@@ -1,3 +1,5 @@
+package Generics;
+
 public class Basic_Generics {
     public static void main(String[] args) {
         //Generic classes

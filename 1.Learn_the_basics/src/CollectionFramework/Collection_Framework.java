@@ -1,4 +1,4 @@
-// https://d2jdgazzki9vjm.cloudfront.net/images/java-collection-hierarchy.png
+package CollectionFramework;// https://d2jdgazzki9vjm.cloudfront.net/images/java-collection-hierarchy.png
 
 // Why generics: Because of robustness, ex: We dont want to dublicate ArrayList for Integer, Float, String ..etc seperatly
 // So, generics provides functionality to create a class with different datatypes.
