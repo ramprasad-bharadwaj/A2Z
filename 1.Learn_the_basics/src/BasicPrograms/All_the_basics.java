@@ -1,4 +1,6 @@
-package BasicPrograms;// User Input/Output
+package BasicPrograms;
+// Collection of basic usage of;
+// User Input/Output
 // Data types
 // If else
 // Switch statements

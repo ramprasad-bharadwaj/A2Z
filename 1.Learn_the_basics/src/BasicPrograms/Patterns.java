@@ -1,4 +1,7 @@
-package BasicPrograms;// Output of each pattern: https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
+package BasicPrograms;
+
+// Output of each pattern: https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
+// Some Patterns;
 
 public class Patterns {
     public static void main(String[] args) {
