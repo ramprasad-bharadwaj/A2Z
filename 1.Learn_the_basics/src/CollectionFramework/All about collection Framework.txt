@@ -16,3 +16,13 @@ Iterator
             LinkedHashSet
             HashSet
             TreeSet
+
+-----------------------------------------------------------------------------
+
+Map
+    HashMap
+    TreeMap
+    EnumMap
+    LinkedHashMap
+    WeakHashMap
+
