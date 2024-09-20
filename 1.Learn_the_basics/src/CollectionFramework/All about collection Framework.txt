@@ -19,10 +19,3 @@ Iterator
 
 -----------------------------------------------------------------------------
 
-Map
-    HashMap
-    TreeMap
-    EnumMap
-    LinkedHashMap
-    WeakHashMap
-
