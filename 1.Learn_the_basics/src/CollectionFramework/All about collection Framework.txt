@@ -1,0 +1,18 @@
+Iterator
+    Collection
+        Lists
+            ArrayList
+            LinkedList
+            Stack
+            Vector
+        Queue
+            PriorityQueue
+            LinkedList
+            ArrayDeque
+                Stack (ArrayDeque can be used to implement)
+                Queue (ArrayDeque can be used to implement)
+        Set
+            EnumSet
+            LinkedHashSet
+            HashSet
+            TreeSet

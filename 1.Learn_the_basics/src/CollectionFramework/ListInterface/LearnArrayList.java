@@ -22,7 +22,7 @@ package CollectionFramework.ListInterface;
 import java.util.Iterator;
 import java.util.List;
 
-public class ArrayList {
+public class LearnArrayList {
     public static void main(String[] args) {
         List<Integer> li = new java.util.ArrayList();
 

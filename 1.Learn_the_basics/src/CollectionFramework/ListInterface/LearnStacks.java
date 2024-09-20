@@ -9,7 +9,7 @@ package CollectionFramework.ListInterface;
 import java.util.List;
 import java.util.Stack;
 
-public class Stacks {
+public class LearnStacks {
     public static void main(String[] args) {
 
         // ----------------------- From List ------------------------//

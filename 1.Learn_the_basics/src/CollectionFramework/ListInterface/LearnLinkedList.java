@@ -6,7 +6,7 @@ package CollectionFramework.ListInterface;
 import java.util.Iterator;
 import java.util.List;
 
-public class LinkedList {
+public class LearnLinkedList {
     public static void main(String[] args) {
         List<String> fruits = new java.util.LinkedList();
 

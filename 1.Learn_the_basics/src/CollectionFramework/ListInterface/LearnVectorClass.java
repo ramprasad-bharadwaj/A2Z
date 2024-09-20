@@ -9,7 +9,7 @@ package CollectionFramework.ListInterface;
 import java.util.List;
 import java.util.Vector;
 
-public class VectorClass {
+public class LearnVectorClass {
     public static void main(String[] args) {
         List<Integer> nums = new Vector();
 
